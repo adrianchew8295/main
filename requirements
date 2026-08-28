@@ -1,0 +1,5 @@
+# 文件 1：requirements.txt
+# 作用：依賴清單
+streamlit
+pandas
+yfinance
